@@ -17,5 +17,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=santiago-b2rise&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
 
 ### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-b2rise)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gs1.santiago@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gssantiiago)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.santiago@b2rise.com)
